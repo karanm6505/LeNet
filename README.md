@@ -46,7 +46,7 @@ After training for several epochs, the model typically achieves an accuracy of ~
 
 ## References
 - Yann LeCun, Leon Bottou, Yoshua Bengio, and Patrick Haffner, "Gradient-Based Learning Applied to Document Recognition," Proceedings of the IEEE, 1998.
-- [LeNet-5 Paper](http://yann.lecun.com/exdb/lenet/)
+- [LeNet-5 Paper]([http://yann.lecun.com/exdb/lenet/](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf))
 
 ---
 
