@@ -50,5 +50,6 @@ After training for several epochs, the model typically achieves an accuracy of ~
 
 ---
 
-Feel free to contribute by submitting issues or pull requests!
+
+
 
